@@ -1,0 +1,8 @@
+[uBlock Origin]
+! taobao
+*.com/dinamic/barrier-free
+! sina
+a.sinaimg.cn/mintra/pic/*/wza/_aria.js
+! baidu
+baidu/aging-tools*.js
+iknowpc.bdimg.com/static/common/wza/aria.js
