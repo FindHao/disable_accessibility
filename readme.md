@@ -3,7 +3,7 @@
 
 将本项目中的`disable_accessibility.text`文件添加到你的广告屏蔽插件中，即可屏蔽网站的无障碍模式。比如在uBlock Origin中，可以在规则列表中添加如下url
     
-        https://raw.githubusercontent.com/findhao/disable_accessibility/master/disable_accessibility.txt
+        https://raw.githubusercontent.com/findhao/disable_accessibility/main/disable_accessibility.txt
 
 ## 屏蔽的网站
 - 百度

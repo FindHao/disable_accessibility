@@ -1,4 +1,16 @@
 [uBlock Origin]
+! Title: Disable Accessibility
+! Expires: 4 days
+! Homepage: https://github.com/FindHao/disable_accessibility
+! Licence: https://github.com/FindHao/disable_accessibility/blob/main/LICENSE
+! 
+! Description: Disable website accessibility design
+! Email (find@findhao.net)
+!--------------------------General blocking filters---------------------------!
+!------------------------General element hiding rules-------------------------!
+!-----------------------------Union&third-party-------------------------------!
+!---------------------------Popups--------------------------------------------!
+!--------------------------Specific blocking filters--------------------------!
 ! taobao
 *.com/dinamic/barrier-free
 ! sina
