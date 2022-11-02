@@ -16,3 +16,5 @@
 ```
 a.sinaimg.cn/mintra/pic/*/wza/_aria.js
 ```
+### 如何找到应该屏蔽的文件
+Chrome打开网站，按下`F12`，找到`Network(网络)`标签页。回到网页，按下`Ctrl+~`触发网站的无障碍模式，观察`Network(网络)`标签页中底部因为按键触发而加载的文件，找到js文件，点击查看其请求地址。提交issue或者PR到本项目。
