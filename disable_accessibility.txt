@@ -18,4 +18,4 @@ a.sinaimg.cn/mintra/pic/*/wza/_aria.js
 ! baidu
 baidu/aging-tools*.js
 iknowpc.bdimg.com/static/common/wza/aria.js
-zhihu.com/event/wza/*/_aria.js
+zhihu.com/event/wza/*
